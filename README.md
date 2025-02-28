@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monkeydluffy7" alt="monkeydluffy7" /></a> </p>
 
-- 🔭 I’m currently working on **PyShelBot**
+- 🔭 I’m currently working on **AI**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently **Python** addict
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
